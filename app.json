@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "emargement-app",
+    "slug": "emargement-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "emargement-app"
+}
